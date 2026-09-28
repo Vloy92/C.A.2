@@ -1,0 +1,2 @@
+export const metadata={title:"C.A. Frizerie | Cernescu Alina"};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="ro"><body style={{margin:0,fontFamily:"Georgia, serif",background:"#FCFBF8"}}>{children}</body></html>}
